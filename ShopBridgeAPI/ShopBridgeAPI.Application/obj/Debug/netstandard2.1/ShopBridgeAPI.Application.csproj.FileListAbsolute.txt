@@ -1,0 +1,36 @@
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Application.deps.json
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Application.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Application.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Domain.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Domain.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.csprojAssemblyReference.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.AssemblyInfoInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.AssemblyInfo.cs
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.csproj.CoreCompileInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.csproj.CopyComplete
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Application.deps.json
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Application.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Application.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Domain.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Domain.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.csprojAssemblyReference.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.AssemblyInfoInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.AssemblyInfo.cs
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.csproj.CoreCompileInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.csproj.CopyComplete
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge - With Users\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Application.deps.json
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Application.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Application.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Domain.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\bin\Debug\netstandard2.1\ShopBridgeAPI.Domain.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.csprojAssemblyReference.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.AssemblyInfoInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.AssemblyInfo.cs
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.csproj.CoreCompileInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.csproj.CopyComplete
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Application\obj\Debug\netstandard2.1\ShopBridgeAPI.Application.pdb

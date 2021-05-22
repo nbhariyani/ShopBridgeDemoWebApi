@@ -1,0 +1,437 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.WebApi\\ShopBridgeAPI.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\ShopBridgeAPI.Application.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\ShopBridgeAPI.Application.csproj",
+        "projectName": "ShopBridgeAPI.Application",
+        "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\ShopBridgeAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\naresh.h\\.nuget\\packages\\",
+        "outputPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naresh.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Domain\\ShopBridgeAPI.Domain.csproj": {
+                "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Domain\\ShopBridgeAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Domain\\ShopBridgeAPI.Domain.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Domain\\ShopBridgeAPI.Domain.csproj",
+        "projectName": "ShopBridgeAPI.Domain",
+        "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Domain\\ShopBridgeAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\naresh.h\\.nuget\\packages\\",
+        "outputPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naresh.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Persistence\\ShopBridgeAPI.Infrastructure.Persistence.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Persistence\\ShopBridgeAPI.Infrastructure.Persistence.csproj",
+        "projectName": "ShopBridgeAPI.Infrastructure.Persistence",
+        "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Persistence\\ShopBridgeAPI.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\naresh.h\\.nuget\\packages\\",
+        "outputPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naresh.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\ShopBridgeAPI.Application.csproj": {
+                "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\ShopBridgeAPI.Application.csproj"
+              },
+              "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Domain\\ShopBridgeAPI.Domain.csproj": {
+                "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Domain\\ShopBridgeAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Shared\\ShopBridgeAPI.Infrastructure.Shared.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Shared\\ShopBridgeAPI.Infrastructure.Shared.csproj",
+        "projectName": "ShopBridgeAPI.Infrastructure.Shared",
+        "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Shared\\ShopBridgeAPI.Infrastructure.Shared.csproj",
+        "packagesPath": "C:\\Users\\naresh.h\\.nuget\\packages\\",
+        "outputPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naresh.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\ShopBridgeAPI.Application.csproj": {
+                "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\ShopBridgeAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.WebApi\\ShopBridgeAPI.WebApi.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.WebApi\\ShopBridgeAPI.WebApi.csproj",
+        "projectName": "ShopBridgeAPI.WebApi",
+        "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.WebApi\\ShopBridgeAPI.WebApi.csproj",
+        "packagesPath": "C:\\Users\\naresh.h\\.nuget\\packages\\",
+        "outputPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naresh.h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\ShopBridgeAPI.Application.csproj": {
+                "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Application\\ShopBridgeAPI.Application.csproj"
+              },
+              "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Persistence\\ShopBridgeAPI.Infrastructure.Persistence.csproj": {
+                "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Persistence\\ShopBridgeAPI.Infrastructure.Persistence.csproj"
+              },
+              "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Shared\\ShopBridgeAPI.Infrastructure.Shared.csproj": {
+                "projectPath": "D:\\Naresh\\Project\\ShopBridge API Demo\\ShopBridgeDemoWebApi\\ShopBridgeAPI\\ShopBridgeAPI.Infrastructure.Shared\\ShopBridgeAPI.Infrastructure.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
