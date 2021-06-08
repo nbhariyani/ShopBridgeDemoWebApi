@@ -3,9 +3,8 @@ using ShopBridgeAPI.Application.Interfaces.Repositories;
 using ShopBridgeAPI.Domain.Entities;
 using ShopBridgeAPI.Infrastructure.Persistence.Contexts;
 using ShopBridgeAPI.Infrastructure.Persistence.Repository;
-using System.Threading.Tasks;
-using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace ShopBridgeAPI.Infrastructure.Persistence.Repositories
 {

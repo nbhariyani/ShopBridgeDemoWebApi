@@ -40,3 +40,17 @@ D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBrid
 D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.csproj.CopyComplete
 D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.dll
 D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.deps.json
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Application.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Domain.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Application.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Domain.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.csprojAssemblyReference.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.AssemblyInfo.cs
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.csproj.CopyComplete
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.dll
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Shared\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.pdb
