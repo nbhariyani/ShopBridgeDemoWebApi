@@ -17,9 +17,10 @@ namespace ShopBridgeAPI.Infrastructure.Persistence.Repositories
             _products = dbContext.Set<Product>();
         }
 
-        public Task<bool> IsUniqueProductCodeAsync(string productcode, int id)
+        public Task<bool> IsUniqueProductNameAsync(string productname, int id)
         {
-            return _products.Where(x => x.Id != id).AllAsync(p => p.ProductCode != productcode);
+            return _products.Where(x => x.Id != id).AllAsync(p => p.Name != productname);
         }
-    }
+
+    }    
 }

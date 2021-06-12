@@ -14,6 +14,7 @@ namespace ShopBridgeAPI.Application.Features.Products.Queries.GetAllProducts
         public int PageNumber { get; set; }
         public int PageSize { get; set; }
     }
+
     public class GetAllProductsQueryHandler : IRequestHandler<GetAllProductsQuery, PagedResponse<IEnumerable<ProductsViewModel>>>
     {
         private readonly IProductRepositoryAsync _productRepository;

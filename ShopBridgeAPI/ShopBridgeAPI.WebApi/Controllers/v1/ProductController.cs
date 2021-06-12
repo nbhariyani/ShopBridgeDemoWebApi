@@ -54,4 +54,5 @@ namespace ShopBridgeAPI.WebApi.Controllers.v1
             return Ok(await Mediator.Send(new DeleteProductByIdCommand { Id = id }));
         }
     }
+
 }

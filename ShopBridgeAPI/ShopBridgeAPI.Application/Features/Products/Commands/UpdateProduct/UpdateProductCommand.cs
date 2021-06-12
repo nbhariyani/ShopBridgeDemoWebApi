@@ -11,7 +11,6 @@ namespace ShopBridgeAPI.Application.Features.Products.Commands.UpdateProduct
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string ProductCode { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
 
@@ -33,7 +32,6 @@ namespace ShopBridgeAPI.Application.Features.Products.Commands.UpdateProduct
                 else
                 {
                     product.Name = command.Name;
-                    product.ProductCode = command.ProductCode;
                     product.Description = command.Description;
                     product.Price = command.Price;
                     await _productRepository.UpdateAsync(product);
@@ -42,4 +40,5 @@ namespace ShopBridgeAPI.Application.Features.Products.Commands.UpdateProduct
             }
         }
     }
+
 }

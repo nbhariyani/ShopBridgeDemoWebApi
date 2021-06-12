@@ -40,10 +40,6 @@ D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBrid
 D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.csproj.CopyComplete
 D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.dll
 D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.pdb
-D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.csprojAssemblyReference.cache
-D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.AssemblyInfoInputs.cache
-D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.AssemblyInfo.cs
-D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.deps.json
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.dll
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.pdb
@@ -51,6 +47,10 @@ D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBri
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Domain.dll
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Application.pdb
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Domain.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.AssemblyInfo.cs
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.csproj.CopyComplete
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.dll
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.pdb

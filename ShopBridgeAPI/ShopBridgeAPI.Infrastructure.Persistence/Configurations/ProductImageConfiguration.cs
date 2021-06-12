@@ -4,16 +4,14 @@ using ShopBridgeAPI.Domain.Entities;
 
 namespace ShopBridgeAPI.Infrastructure.Persistence.Configurations
 {
-    public class ProductConfiguration : IEntityTypeConfiguration<Product>
+    public class ProductImageConfiguration : IEntityTypeConfiguration<ProductImage>
     {
-        public void Configure(EntityTypeBuilder<Product> builder)
+        public void Configure(EntityTypeBuilder<ProductImage> builder)
         {
-            builder.Property(t => t.Name)
+            builder.Property(t => t.ImageName)
                 .HasMaxLength(50)
                 .IsRequired();
-            
-            builder.Property(t => t.Description)
-                .HasMaxLength(200);
+
         }
-    }    
+    }
 }

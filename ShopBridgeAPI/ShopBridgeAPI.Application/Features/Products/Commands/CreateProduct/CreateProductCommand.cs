@@ -11,7 +11,6 @@ namespace ShopBridgeAPI.Application.Features.Products.Commands.CreateProduct
     public partial class CreateProductCommand : IRequest<Response<int>>
     {
         public string Name { get; set; }
-        public string ProductCode { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
 
@@ -33,4 +32,5 @@ namespace ShopBridgeAPI.Application.Features.Products.Commands.CreateProduct
             }
         }
     }
+
 }

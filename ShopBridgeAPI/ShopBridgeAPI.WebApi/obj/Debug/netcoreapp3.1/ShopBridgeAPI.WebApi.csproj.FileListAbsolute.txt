@@ -552,11 +552,6 @@ D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBrid
 D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.WebApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
 D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.WebApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 D:\Naresh\Project\ShopBridge API Demo\ShopBridge API Demo\ShopBridgeAPI\ShopBridgeAPI.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
-D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.csprojAssemblyReference.cache
-D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.AssemblyInfoInputs.cache
-D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.AssemblyInfo.cs
-D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.csproj.CoreCompileInputs.cache
-D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\bin\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.exe
@@ -715,6 +710,12 @@ D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBri
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Persistence.pdb
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Infrastructure.Shared.pdb
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\bin\Debug\netcoreapp3.1\ShopBridgeAPI.Domain.pdb
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.csprojAssemblyReference.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.AssemblyInfoInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.AssemblyInfo.cs
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.csproj.CoreCompileInputs.cache
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\ShopBridgeAPI.WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ShopBridgeAPI.WebApi.StaticWebAssets.Manifest.cache
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ShopBridgeAPI.WebApi.StaticWebAssets.xml
 D:\Naresh\Project\ShopBridge API Demo\ShopBridgeDemoWebApi\ShopBridgeAPI\ShopBridgeAPI.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopBridgeAPI.WebApi.styles.css

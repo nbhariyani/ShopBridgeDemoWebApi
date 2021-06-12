@@ -13,17 +13,11 @@ namespace ShopBridgeAPI.Application.Features.Products.Commands.CreateProduct
         {
             this.productRepository = productRepository;
 
-            RuleFor(p => p.ProductCode)
-                .NotEmpty().WithMessage("{PropertyName} is required.")
-                .NotNull()
-                .MinimumLength(3).WithMessage("{PropertyName} must be minimum 3 characters.")
-                .MaximumLength(50).WithMessage("{PropertyName} must not exceed 50 characters.")
-                .MustAsync(IsUniqueProductCode).WithMessage("{PropertyName} already exists.");
-
             RuleFor(p => p.Name)
                 .NotEmpty().WithMessage("{PropertyName} is required.")
                 .NotNull()
-                .MaximumLength(50).WithMessage("{PropertyName} must not exceed 50 characters.");
+                .MaximumLength(50).WithMessage("{PropertyName} must not exceed 50 characters.")
+                .MustAsync(IsUniqueProductName).WithMessage("{PropertyName} already exists.");
 
             RuleFor(p => p.Description)
                 .MaximumLength(200).WithMessage("{PropertyName} must not exceed 200 characters.");
@@ -32,9 +26,9 @@ namespace ShopBridgeAPI.Application.Features.Products.Commands.CreateProduct
                 .GreaterThanOrEqualTo(0).WithMessage("{PropertyName} should be greater than equal to zero.");
         }
 
-        private async Task<bool> IsUniqueProductCode(string productcode, CancellationToken cancellationToken)
+        private async Task<bool> IsUniqueProductName(string productname, CancellationToken cancellationToken)
         {
-            return await productRepository.IsUniqueProductCodeAsync(productcode, 0);
+            return await productRepository.IsUniqueProductNameAsync(productname, 0);
         }
     }
 }
